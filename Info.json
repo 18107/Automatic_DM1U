@@ -1,0 +1,10 @@
+﻿{
+  "Id": "AutomaticDM1U",
+  "DisplayName": "Automatic DM1U",
+  "Author": "18107",
+  "Version": "2.0.0",
+  "EntryMethod": "Automatic_DM1U.Main.Load",
+  "AssemblyName": "Automatic DM1U.dll",
+  "Homepage": "https://www.nexusmods.com/derailvalley/mods/1191",
+  "Repository": "https://raw.githubusercontent.com/18107/Automatic_DM1U/main/repository.json"
+}
